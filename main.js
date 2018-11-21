@@ -1,3 +1,5 @@
-function branchname (){
-  alert(intruder alert!)
+
+let viperWill=(str)=>{
+  console.log("eat my shorts")
+
 }
